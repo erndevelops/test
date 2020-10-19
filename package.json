@@ -1,0 +1,20 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "## Purpose To test out features of the GitHub platform in a mock team environment.",
+  "main": "community.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erndevelops/test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erndevelops/test/issues"
+  },
+  "homepage": "https://github.com/erndevelops/test#readme"
+}
