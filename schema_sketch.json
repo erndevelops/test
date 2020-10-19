@@ -1,0 +1,29 @@
+{
+    user: {
+        _id:,
+        first_name:,
+        last_name:,
+        username:,
+        
+    }
+    homes: [
+        {
+            _id:,
+            street_name:,
+            city:,
+            zip:,
+            square_feet:,
+            img_url:[],
+            items:[
+                {
+                    _id:,
+                    description:,
+                    cost:,
+                    img_url:
+                }
+            ]
+
+        }
+    ]
+}
+

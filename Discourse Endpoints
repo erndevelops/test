@@ -1,0 +1,5 @@
+Discourse Endpoints
+
+GET Specific posts in a topic :
+https://discourse.example.com/t/{id}/posts.json
+
