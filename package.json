@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/erndevelops/test/issues"
   },
-  "homepage": "https://github.com/erndevelops/test#readme"
+  "homepage": "https://github.com/erndevelops/test#readme",
+  "dependencies": {
+    "handlebars": "^4.7.6"
+  }
 }
